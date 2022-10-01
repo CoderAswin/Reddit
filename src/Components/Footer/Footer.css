@@ -1,0 +1,13 @@
+.footerBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #2C4152;
+    color: #EAE3D2;
+    padding-top: 50px;
+    margin-top: 80px;
+}
+
+ul{
+    list-style: none;
+}
